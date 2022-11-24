@@ -1,0 +1,232 @@
+[
+  {
+    "_id": { "$oid": "6355a7f12d1ad32e28fbacf6" },
+    "title": "Microwave Baked Potato",
+    "category": "side-dish",
+    "ingredients": [
+      "1 large russet potato",
+      "salt and ground black pepper to taste",
+      "1 tablespoon butter",
+      "2 tablespoons shredded Cheddar cheese",
+      "1 tablespoon sour cream"
+    ],
+    "steps": [
+      "Scrub potato and prick with a fork.",
+      "Place on a microwave-safe plate.",
+      "Microwave on full power for 5 minutes.",
+      "Turn potato over and microwave until soft about 5 more minutes.",
+      "Remove potato from the microwave and cut in half lengthwise.",
+      "Season with salt and pepper and mash up the inside a little with a fork.",
+      "Add butter and Cheddar cheese.",
+      "Microwave until melted about 1 more minute.",
+      "Top with sour cream and serve."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666557936/express-food-recipes/recipes/cjmpodvig1hmaewszkgd.webp",
+    "prepTime": "1 min",
+    "cookTime": "11 mins",
+    "serves": 1,
+    "difficulty": "easy",
+    "isFavorited": false,
+    "createdAt": { "$date": "2022-10-23T20:45:37.434Z" },
+    "updatedAt": { "$date": "2022-10-23T21:59:56.566Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355abf62d1ad32e28fbad00" },
+    "title": "Banana Pancakes",
+    "category": "breakfast",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 tablespoon white sugar",
+      "2 teaspoons baking powder",
+      "¼ teaspoon salt",
+      "1 egg beaten",
+      "1 cup milk",
+      "2 tablespoons vegetable oil",
+      "2 ripe bananas mashed"
+    ],
+    "steps": [
+      "Combine flour, white sugar, baking powder, and salt in a bowl.",
+      "Mix together egg, milk, vegetable oil, and bananas in a second bowl.",
+      "Stir flour mixture into banana mixture; batter will be slightly lumpy.",
+      "Heat a lightly oiled griddle or frying pan over medium high heat.",
+      "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+      "Cook until pancakes are golden brown, 3 to 5 minutes per side. Serve hot."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666558966/express-food-recipes/recipes/f8uir4btrks9ew5qwdog.webp",
+    "prepTime": "5 mins",
+    "cookTime": "10 mins",
+    "serves": 6,
+    "difficulty": "medium",
+    "isFavorited": false,
+    "createdAt": { "$date": "2022-10-23T21:02:46.562Z" },
+    "updatedAt": { "$date": "2022-10-23T21:02:46.562Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355ac882d1ad32e28fbad04" },
+    "title": "Fluffy French Toast",
+    "category": "breakfast",
+    "ingredients": [
+      "¼ cup all-purpose flour",
+      "1 cup milk",
+      "3 eggs",
+      "1 tablespoon white sugar",
+      "1 teaspoon vanilla extract",
+      "½ teaspoon ground cinnamon",
+      "1 pinch salt",
+      "12 thick slices bread"
+    ],
+    "steps": [
+      "Measure flour into a large mixing bowl.",
+      "Slowly whisk in milk. Whisk in eggs, sugar, vanilla extract, cinnamon, and salt until smooth.",
+      "Heat a lightly oiled griddle or frying pan over medium heat.",
+      "Soak bread slices in milk mixture until saturated.",
+      "Working in batches, cook bread on the preheated griddle or pan until golden brown on each side. Serve hot."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666559111/express-food-recipes/recipes/sxksuklvaipvjpnriqwa.webp",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "serves": 12,
+    "difficulty": "hard",
+    "isFavorited": true,
+    "createdAt": { "$date": "2022-10-23T21:05:12.41Z" },
+    "updatedAt": { "$date": "2022-10-23T21:05:12.41Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355af102d1ad32e28fbad08" },
+    "title": "Maple Salmon",
+    "category": "main-course",
+    "ingredients": [
+      "¼ cup maple syrup",
+      "2 tablespoons soy sauce",
+      "1 clove garlic minced",
+      "¼ teaspoon garlic salt",
+      "⅛ teaspoon ground black pepper",
+      "1 pound salmon"
+    ],
+    "steps": [
+      "Stir maple syrup, soy sauce, garlic, garlic salt, and pepper together in a small bowl.",
+      "Cut salmon into 4 equal-sized fillets; place in a shallow glass baking dish and coat with maple syrup mixture.",
+      "Cover the dish and marinate salmon in the refrigerator for 30 minutes, turning once halfway.",
+      "Preheat the oven to 400 degrees F (200 degrees C).",
+      "Place the baking dish in the preheated oven and bake salmon uncovered until flesh easily flakes with a fork, about 20 minutes."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666559760/express-food-recipes/recipes/f5ccvxkda5t5kvw1o5kp.webp",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "serves": 4,
+    "difficulty": "easy",
+    "isFavorited": true,
+    "createdAt": { "$date": "2022-10-23T21:16:00.762Z" },
+    "updatedAt": { "$date": "2022-10-23T23:07:40.351Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355af9d2d1ad32e28fbad0b" },
+    "title": "Holiday Ginger Snap Crust",
+    "category": "dessert",
+    "ingredients": [
+      "1 (16 ounce) package gingersnap cookies",
+      "⅓ cup brown sugar",
+      "6 tablespoons unsalted butter, melted"
+    ],
+    "steps": [
+      "Preheat the oven to 375 degrees F (190 degrees C).",
+      "Set aside 12 to 18 whole gingersnap cookies.",
+      "Crush remaining cookies until you have 1 1/2 cups fine crumbs. Reserve any remaining cookies for another use.",
+      "Mix gingersnap crumbs, brown sugar, and melted butter together in a bowl until well combined.",
+      "Press mixture into the bottom of a 9-inch springform pan.",
+      "Arrange whole gingersnap cookies upright around the border of the springform pan, pressing into the base and overlapping slightly if necessary, so that they stand firmly.",
+      "Bake in the preheated oven until set, about 7 minutes.",
+      "Cool crust completely before filling."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666559900/express-food-recipes/recipes/hdffrifnsmubh8b06ckr.webp",
+    "prepTime": "10 mins",
+    "cookTime": "10 mins",
+    "serves": 8,
+    "difficulty": "medium",
+    "isFavorited": false,
+    "createdAt": { "$date": "2022-10-23T21:18:21.09Z" },
+    "updatedAt": { "$date": "2022-10-23T21:18:21.09Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355b0202d1ad32e28fbad0f" },
+    "title": "Strawberry Oatmeal Breakfast Smoothie",
+    "category": "holiday",
+    "ingredients": [
+      "1 cup soy milk",
+      "½ cup rolled oats",
+      "14 frozen strawberries",
+      "1 banana",
+      "broken into chunks",
+      "1 ½ teaspoons white sugar (Optional)",
+      "½ teaspoon vanilla extract (Optional)"
+    ],
+    "steps": [
+      "Blend soy milk, oats, strawberries, and banana in a blender until smooth.",
+      "Add sugar and vanilla and blend again until smooth.",
+      "Pour into glasses and serve."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666560032/express-food-recipes/recipes/lvkdoij6i0ingn8ntw34.webp",
+    "prepTime": "5 mins",
+    "cookTime": "-",
+    "serves": 2,
+    "difficulty": "easy",
+    "isFavorited": true,
+    "createdAt": { "$date": "2022-10-23T21:20:32.643Z" },
+    "updatedAt": { "$date": "2022-10-23T21:20:32.643Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355b0932d1ad32e28fbad12" },
+    "title": "No-Yeast Pizza Crust",
+    "category": "lunch",
+    "ingredients": [
+      "1 ⅓ cups all-purpose flour",
+      "1 teaspoon baking powder",
+      "½ teaspoon salt",
+      "½ cup fat-free milk",
+      "2 tablespoons olive oil"
+    ],
+    "steps": [
+      "Mix flour, baking powder, and salt together in a bowl; stir in milk and olive oil until a soft dough forms.",
+      "Turn dough onto a lightly floured surface and knead 10 times. Shape dough into a ball.",
+      "Cover dough with an inverted bowl and let sit for 10 minutes.",
+      "Roll dough into a 12-inch circle on a baking sheet."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666560147/express-food-recipes/recipes/o8vn4d4thfeibhxfjhks.webp",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "serves": 8,
+    "difficulty": "medium",
+    "isFavorited": false,
+    "createdAt": { "$date": "2022-10-23T21:22:27.761Z" },
+    "updatedAt": { "$date": "2022-10-23T21:22:27.761Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6355b1262d1ad32e28fbad15" },
+    "title": "Easy Roasted Broccoli",
+    "category": "side-dish",
+    "ingredients": ["14 ounces broccoli", "1 tablespoon olive oil", "salt and ground black pepper to taste"],
+    "steps": [
+      "Preheat the oven to 400 degrees F (200 degrees C).",
+      "Cut broccoli florets from the stalk.",
+      "Peel the stalk and slice into 1/4-inch slices.",
+      "Mix florets and stem pieces with olive oil in a bowl and transfer to a baking sheet; season with salt and pepper.",
+      "Roast in the preheated oven until broccoli is tender and lightly browned, about 18 to 20 minutes."
+    ],
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1666560294/express-food-recipes/recipes/ncv7cygltznud7mbtnlu.webp",
+    "prepTime": "10 mins",
+    "cookTime": "20 mins",
+    "serves": 4,
+    "difficulty": "easy",
+    "isFavorited": true,
+    "createdAt": { "$date": "2022-10-23T21:24:54.625Z" },
+    "updatedAt": { "$date": "2022-10-23T21:24:54.625Z" },
+    "__v": 0
+  }
+]
